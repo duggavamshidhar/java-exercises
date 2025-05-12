@@ -2,7 +2,7 @@ package com.duggavamshidhar;
 
 import java.util.Scanner;
 
-// Java program to read student marks as input and calculate the total marks and average.
+// Java Program to Read Student Marks as Input and Calculate the Total Marks and Average
 public class ExerciseEleven {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
