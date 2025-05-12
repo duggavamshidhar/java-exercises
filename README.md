@@ -10,3 +10,4 @@
 8. [Java Program to Illustrate the Use of Pre- and Post-Increment and Decrement Operators](src/com/duggavamshidhar/ExerciseEight.java)
 9. [Java Program to Swap Two Numbers](src/com/duggavamshidhar/ExerciseNine.java)
 10. [Java Program to Read Two Input Values from the User and Perform Arithmetic Operations on Them](src/com/duggavamshidhar/ExerciseTen.java)
+11. [Java Program to Read Student Marks as Input and Calculate the Total Marks and Average](src/com/duggavamshidhar/ExerciseEleven.java)
