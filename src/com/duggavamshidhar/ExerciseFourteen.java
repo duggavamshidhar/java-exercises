@@ -2,6 +2,7 @@ package com.duggavamshidhar;
 
 import java.util.Scanner;
 
+// Java Program to Check if Two Numbers Are Equal
 public class ExerciseFourteen {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
