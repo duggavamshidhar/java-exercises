@@ -5,3 +5,4 @@
 3. [Java Program to Illustrate the Use of Binary Literals](src/com/duggavamshidhar/ExerciseThree.java)
 4. [Java Program to Use Underscores in Numeric Literals](src/com/duggavamshidhar/ExerciseFour.java)
 5. [Java Program to Perform Relational Operations](src/com/duggavamshidhar/ExerciseFive.java)
+6. [Java Program to Illustrate the Use of Various Boolean Operators](src/com/duggavamshidhar/ExerciseSix.java)
