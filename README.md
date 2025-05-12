@@ -11,3 +11,4 @@
 9. [Java Program to Swap Two Numbers](src/com/duggavamshidhar/ExerciseNine.java)
 10. [Java Program to Read Two Input Values from the User and Perform Arithmetic Operations on Them](src/com/duggavamshidhar/ExerciseTen.java)
 11. [Java Program to Read Student Marks as Input and Calculate the Total Marks and Average](src/com/duggavamshidhar/ExerciseEleven.java)
+12. [Java Program to Check Whether a Given Number Is Even or Odd](src/com/duggavamshidhar/ExerciseTwelve.java)
