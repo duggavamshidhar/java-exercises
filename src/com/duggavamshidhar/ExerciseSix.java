@@ -22,5 +22,6 @@ public class ExerciseSix {
         System.out.println("Value of a ^ b: " + e);
         System.out.println("Value of !a: " + f);
         System.out.println("Value of !b: " + g);
+        sc.close();
     }
 }

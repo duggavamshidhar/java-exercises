@@ -17,5 +17,6 @@ public class ExerciseSeven {
         c = sc.nextInt();
         int largest = (a > b) && (a > c) ? a : (b > c) ? b : c;
         System.out.println("Largest number is: " + largest);
+        sc.close();
     }
 }

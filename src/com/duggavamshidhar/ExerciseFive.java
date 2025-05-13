@@ -18,5 +18,6 @@ public class ExerciseFive {
         System.out.println("First number is not equal to second number: " + (a != b));
         System.out.println("First number is greater or equal to second number: " + (a > b));
         System.out.println("First number is lesser or equal to second number: " + (a < b));
+        sc.close();
     }
 }

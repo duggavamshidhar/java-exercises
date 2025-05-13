@@ -18,5 +18,6 @@ public class ExerciseOne {
         System.out.println("Byte Value: " + b);
         System.out.println("Character Value: " + c);
         System.out.println("Float Value: " + f);
+        sc.close();
     }
 }

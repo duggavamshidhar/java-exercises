@@ -6,8 +6,6 @@ import java.util.Scanner;
 public class ExerciseEleven {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int totalMarks = 0;
-        double averageMarks = 0.0;
         int subA, subB, subC, subD;
         System.out.println("Enter marks for subject A: ");
         subA = sc.nextInt();
@@ -17,9 +15,10 @@ public class ExerciseEleven {
         subC = sc.nextInt();
         System.out.println("Enter marks for subject D: ");
         subD = sc.nextInt();
-        totalMarks = subA + subB + subC + subD;
+        int totalMarks = subA + subB + subC + subD;
         System.out.println("Total marks: " + totalMarks);
-        averageMarks = (double) totalMarks / 4;
+        double averageMarks = (double) totalMarks / 4;
         System.out.println("Average marks: " + averageMarks);
+        sc.close();
     }
 }

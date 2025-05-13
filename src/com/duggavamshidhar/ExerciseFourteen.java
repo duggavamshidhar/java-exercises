@@ -15,5 +15,6 @@ public class ExerciseFourteen {
         } else {
             System.out.println(num1 + " is not equal to " + num2 + ".");
         }
+        sc.close();
     }
 }

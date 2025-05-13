@@ -22,5 +22,6 @@ public class ExerciseFifteen {
         } else {
             System.out.println(c + " is the largest number.");
         }
+        sc.close();
     }
 }

@@ -13,5 +13,6 @@ public class ExerciseThirteen {
         } else {
             System.out.println(num + " is not divisible by 5.");
         }
+        sc.close();
     }
 }
