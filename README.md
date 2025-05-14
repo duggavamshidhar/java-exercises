@@ -15,4 +15,5 @@
 13. [Java Program to Check if the Input Number Is Divisible by 5](src/com/duggavamshidhar/ExerciseThirteen.java)
 14. [Java Program to Check if Two Numbers Are Equal](src/com/duggavamshidhar/ExerciseFourteen.java)
 15. [Java Program to Find the Largest Number Among Three Numbers](src/com/duggavamshidhar/ExerciseFifteen.java)
-16. [Java Program to Check Whether a Number Is Positive or Negative](src/com/duggavamshidhar/ExerciseSixteen.java)  
+16. [Java Program to Check Whether a Number Is Positive or Negative](src/com/duggavamshidhar/ExerciseSixteen.java)
+17. [Java Program to Read a Grade and Display the Equivalent Description](src/com/duggavamshidhar/ExerciseSeventeen.java)
