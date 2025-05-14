@@ -24,5 +24,4 @@ jobs:
 
       - name: Run Main class
         run: |
-          cd out
-          java Main
+          java -cp out com.duggavamshidhar.Main
