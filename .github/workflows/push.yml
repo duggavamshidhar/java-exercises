@@ -1,4 +1,4 @@
-name: Compile Java Exercises
+name: CI
 on:
   push:
     branches:
