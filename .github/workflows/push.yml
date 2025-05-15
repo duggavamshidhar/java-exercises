@@ -24,6 +24,11 @@ jobs:
           mkdir -p out
           javac -d out $(find src -name "*.java")
 
-      - name: Run Main class
+      - name: Create JAR file
         run: |
-          java -cp out com.duggavamshidhar.Main
+          mkdir -p releases
+          jar --create --verbose --file=releases/Exercises.jar --main-class=com.duggavamshidhar.Main -C out .
+
+      - name: Run JAR file
+        run: |
+          java -jar releases/Exercises.jar
