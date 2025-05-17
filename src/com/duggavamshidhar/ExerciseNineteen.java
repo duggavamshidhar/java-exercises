@@ -17,5 +17,6 @@ public class ExerciseNineteen {
         } else {
             System.out.println(num1 + " is equal to " + num2 + ".");
         }
+        sc.close();
     }
 }
