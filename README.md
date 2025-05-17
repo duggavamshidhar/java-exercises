@@ -20,3 +20,4 @@
 16. [Java Program to Check Whether a Number Is Positive or Negative](src/com/duggavamshidhar/ExerciseSixteen.java)
 17. [Java Program to Read a Grade and Display the Equivalent Description](src/com/duggavamshidhar/ExerciseSeventeen.java)
 18. [Java Program to Check Whether Given Characters Are Uppercase, Lowercase, or Digits](src/com/duggavamshidhar/ExerciseEighteen.java)
+19. [Java Program to Check Whether a Number Is Greater Than, Less Than, or Equal to Another Number](src/com/duggavamshidhar/ExerciseNineteen.java)
