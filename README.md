@@ -23,3 +23,4 @@
 19. [Java Program to Check Whether a Number Is Greater Than, Less Than, or Equal to Another Number](src/com/duggavamshidhar/ExerciseNineteen.java)
 20. [Java Program to Calculate Body Mass Index (BMI)](src/com/duggavamshidhar/ExerciseTwenty.java)
 21. [Java Program to Calculate Burger Order Price Based on User Choices](src/com/duggavamshidhar/ExerciseTwentyOne.java)
+22. [Java Program to Calculate Gross Pay with Overtime](src/com/duggavamshidhar/ExerciseTwentyTwo.java)
