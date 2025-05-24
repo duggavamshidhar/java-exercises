@@ -13,7 +13,7 @@ public class ExerciseTwentyOne {
         String cheeseChoice = sc.next().toUpperCase();
         System.out.println("Would you like to add mushroom toppings? (Y/N)");
         String mushroomChoice = sc.next().toUpperCase();
-        double burgerPrice = 0.0;
+        double burgerPrice;
         switch (burgerType) {
             case "M":
                 burgerPrice = 5.0;
